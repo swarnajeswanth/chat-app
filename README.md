@@ -20,10 +20,12 @@ Not Implemented Feature :
   - Realtime Chat update (Need to refresh everytime to see a updated message) using Socket.io
   - Not implemented Single Port Application (as Frontend and Backend runs in Different port)
   - Haven't Done the Production Build application
+  - Not Implemented Decoration Component in login and signup pages
+    
   
   How to Start the Project  
   
-   Step 1. Start the Backend Server 
+  Step 1. Start the Backend Server 
            For Below command to work we need to move to the " cd backend " path 
            Install the Node modules with the help of ( npm i )
            - npm run dev (Development Mode)
