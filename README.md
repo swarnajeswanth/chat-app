@@ -45,11 +45,13 @@ Not Implemented Feature :
 
     
     Cloudinary:
+      You'll need to login into the Cloudinary and Api Section inorder to get this details
     1. Cloudinary Name
     2. Cloudinary Api Key
     3. Cloudinary Secret
     
     Mongodb :
+    Login into the Mongodb and Create a project to get the URI
       1. Mongodb Uri
 
     jsonWebtoken :
