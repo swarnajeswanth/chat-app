@@ -18,6 +18,7 @@ Frameworks used :
        
 Not Implemented Feature : 
   - Realtime Chat update (Need to refresh everytime to see a updated message) using Socket.io
+  - Offline and Online Feature
   - Not implemented Single Port Application (as Frontend and Backend runs in Different port)
   - Haven't Done the Production Build application
   - Not Implemented Decoration Component in login and signup pages
@@ -53,5 +54,16 @@ Not Implemented Feature :
 
     jsonWebtoken :
       1. JWT Secret (a string which is used to convert password into hash)
-   
+
+
+Project SnapShots:
+  
+
+1. ![image](https://github.com/user-attachments/assets/61fb58ed-678c-42da-9625-631c337c3cdc)
+  Themes:
+2. ![image](https://github.com/user-attachments/assets/a0c49bc5-f24c-429f-aff8-d751ff9e6958)
+3. ![image](https://github.com/user-attachments/assets/25d1b14b-7d52-480a-9c32-89d792b34094)
+
+
+
 NOTE: This is a open Source project , Feel free to explore and do the necessary changes 
